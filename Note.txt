@@ -1,0 +1,4 @@
+2015/03/04
+Add method 4 to connect to SCDDB6 
+2015/10/02
+Add function for Imformation Retraval
